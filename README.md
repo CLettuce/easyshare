@@ -1,8 +1,10 @@
-# React + Vite
+# Easy Search
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Initial project of the Easy Search theme. This is a prototype / shell of what the application will look like.
 
-Currently, two official plugins are available:
+Free code to use, you can download it and make any type of modification.
+
+React is being used with Vite JS
 
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
