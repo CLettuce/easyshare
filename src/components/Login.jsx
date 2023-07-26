@@ -65,7 +65,7 @@ export function Login() {
             </div>
           </div>
           <div className="text-center text-6xl font-roboto font-extrabold text-white mb-16 ">
-            MUPB
+            EasyShare
           </div>
           {error && <Alert message={error}/>}
           <div className="mb-6">
