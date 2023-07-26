@@ -10,6 +10,7 @@ html{
 }
 body{
     font-size: 1.6rem;
+    font-family: "Segoe UI", sans-serif;   
 }
 li{
     list-style: none;
@@ -72,5 +73,5 @@ transition: 0.4s ease-in;
     opacity: 0;
 }
 .toggle .line3{
-    transform: rotate(-45deg) translate(-4px, -5px);
+    transform: rotate(45deg) translate(-4px, -5px);
 }
