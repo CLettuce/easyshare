@@ -1,0 +1,30 @@
+[33mcommit ec82c5fd98f61d78e1d7383eee3ec09b863060c8[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Carlos López <clopez@migob.gob.ni>
+Date:   Tue Jul 25 08:16:34 2023 -0600
+
+    Avance en navbar
+
+[33mcommit 2e10250dbc0bc44b950782aa0630b917b606612c[m
+Merge: b1e7d3f 3d270cc
+Author: Carlos López <clopez@migob.gob.ni>
+Date:   Mon Jul 24 09:44:47 2023 -0600
+
+    Merge branch 'master' of https://github.com/CLettuce/easysearch
+
+[33mcommit b1e7d3f3044b70159625f004aa664d9315a00416[m
+Author: Carlos López <clopez@migob.gob.ni>
+Date:   Mon Jul 24 09:42:02 2023 -0600
+
+    commit
+
+[33mcommit 3d270cc759f0f3a51215760b4fe05804e595e77f[m
+Author: Lettuce <85661679+CLettuce@users.noreply.github.com>
+Date:   Mon Jul 24 09:26:41 2023 -0600
+
+    Update README.md
+
+[33mcommit 16e16d4209b29638a5cb16e639118ced9b7ce887[m
+Author: Carlos López <clopez@migob.gob.ni>
+Date:   Mon Jul 24 09:23:32 2023 -0600
+
+    first commit
